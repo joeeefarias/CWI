@@ -16,7 +16,7 @@ public class Personagem {
 
     public void estado(){
         System.out.println("*****************************");
-        System.out.println("Nome: " + this.getNome());
+        System.out.println("Nome:  " + this.getNome());
         System.out.println("Estamina: " + this.getEstamina());
         System.out.println("Altura: " + this.getAltura());
         System.out.println("Vidas: " + this.getAltura());
